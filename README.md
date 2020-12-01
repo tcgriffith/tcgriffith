@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.imgur.com/2NLJP8V.jpg" style="max-width:200px;min-width:40px;float:right; padding:10px; border-radius: 50%">
+
 
 - 🔭 I’m currently working on RNA bioinformatics
 - 🔧 I write R/Rmarkdown/C++/golang. I know some python/perl/sql/html/css/js. I use Linux(Ubuntu 18.04). 
