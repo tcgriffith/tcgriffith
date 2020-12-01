@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+![](https://images.thewest.com.au/publication/B881735033Z/1606727217700_G6R31VP6V.1-0.jpg)
 
 - 🔭 I’m currently working on RNA bioinformatics
 - 🔧 I write R/Rmarkdown/C++/golang. I know some python/perl/sql/html/css/js. I use Linux(Ubuntu 18.04). 
